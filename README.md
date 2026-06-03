@@ -1,2 +1,16 @@
-# B2C-SpringBoot-Project
-B2C web application built with Java Spring Boot, Hibernate, and AngularJS
+# B2C Spring Boot Project
+
+A full-stack B2C (Business to Consumer) web application built during internship.
+
+## Tech Stack
+- Java, Spring Boot, Hibernate
+- AngularJS, HTML, CSS, JavaScript
+- REST APIs, JPA Repositories
+- Maven
+
+## Modules
+- Admin Panel (User management, Branch management)
+- Purchase Module
+- Sale Module
+- Production Module
+- Account Module
